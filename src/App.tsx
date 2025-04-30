@@ -52,7 +52,7 @@ export default function App() {
   return (
     <div
       className="min-h-screen flex items-center justify-center bg-cover bg-center"
-      style={{ backgroundImage: "url('/src/assets/background.jpg')" }}
+      style={{ backgroundImage: "url('/src/assets/background_image.jpg')" }} // Imagen de fondo
     >
       <div className="bg-white bg-opacity-80 p-6 rounded-xl shadow-xl max-w-sm text-center">
         <h1 className="text-2xl font-bold mb-4">¿Quién es este Pokémon?</h1>
